@@ -1,0 +1,14 @@
+{
+  "name": "country-flags",
+  "version": "1.0.0",
+  "description": "Svg sprite with country flags",
+  "repository": "git@github.com:skilld-labs/country-flags.git",
+  "author": "Skilld",
+  "license": "MIT",
+  "dependencies": {
+    "svg-sprite": "^1.5.0"
+  },
+  "scripts": {
+    "flags": "svg-sprite --config svg-sprite-config.json svg/original/*.svg"
+  }
+}

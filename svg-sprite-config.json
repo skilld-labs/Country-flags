@@ -1,0 +1,24 @@
+{
+  "dest": "svg",
+  "shape": {
+    "id": {
+      "separator": false,
+      "generator": "flag-%s"
+    }
+  },
+  "svg": {
+    "xmlDeclaration": false,
+    "doctypeDeclaration": false,
+    "namespaceIDs": true,
+    "namespaceClassnames": true,
+    "dimensionAttributes": true
+  },
+  "mode": {
+    "symbol": {
+      "prefix": ".%s",
+      "dimensions": "--size",
+      "dest": "stack",
+      "sprite": "flags.svg"
+    }
+  }
+}

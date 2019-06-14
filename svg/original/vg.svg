@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640px" height="480px" viewBox="0 0 640 480">
+	<path fill="#000066" d="M0,0h640v480H0V0z"/>
+	<path fill="#FFFFFF" d="M0,0v19.6L310.9,175H350v-19.6L39.1,0H0z M350,0v19.6L39.1,175H0v-19.6L310.9,0H350z"/>
+	<path fill="#FFFFFF" d="M145.8,0v175h58.4V0H145.8L145.8,0z M0,58.3v58.4h350V58.3H0z"/>
+	<path fill="#CC0000" d="M0,70v35h350V70H0z M157.5,0v175h35V0H157.5z M0,175l116.7-58.3h26L26.2,175H0z M0,0l116.7,58.3H90.6L0,13
+		V0z M207.3,58.3L323.9,0H350L233.3,58.3H207.3z M350,175l-116.7-58.3h26.1L350,162V175z"/>
+	<path fill="#FFDA44" d="M485.7,317.8l-92.1,92.1c17.3,33.3,52,56.1,92.1,56.1s74.8-22.8,92.1-56.1L485.7,317.8z"/>
+	<path fill="#6DA544" d="M382,154.9v163v0l0,0c0,79.4,103.7,103.7,103.7,103.7s103.7-24.3,103.7-103.7l0,0v0v-163H382z"/>
+	<path fill="#496E2D" d="M589.4,317.8L589.4,317.8L589.4,317.8z"/>
+	<polygon fill="#496E2D" points="382,317.8 382,317.8 382,317.8 		"/>
+	<rect x="463.5" y="228.9" fill="#F0F0F0" width="44.4" height="118.5"/>
+	<circle fill="#A2001D" cx="485.7" cy="228.9" r="22.2"/>
+	<rect x="411.6" y="184.5" fill="#FFDA44" width="29.6" height="29.6"/>
+	<rect x="411.6" y="251.2" fill="#FFDA44" width="29.6" height="29.6"/>
+	<rect x="411.6" y="317.8" fill="#FFDA44" width="29.6" height="29.6"/>
+	<rect x="530.2" y="184.5" fill="#FFDA44" width="29.6" height="29.6"/>
+	<rect x="530.2" y="251.2" fill="#FFDA44" width="29.6" height="29.6"/>
+	<rect x="530.2" y="317.8" fill="#FFDA44" width="29.6" height="29.6"/>
+</svg>
